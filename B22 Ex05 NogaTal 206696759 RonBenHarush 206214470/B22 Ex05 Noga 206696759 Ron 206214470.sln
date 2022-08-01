@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B22 Ex05 Noga 206696759 Ron 206214470", "B22 Ex05 Noga 206696759 Ron 206214470\B22 Ex05 Noga 206696759 Ron 206214470.csproj", "{E7CF4E9A-6FA8-4E74-BACB-ED05B787D14D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7CF4E9A-6FA8-4E74-BACB-ED05B787D14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CF4E9A-6FA8-4E74-BACB-ED05B787D14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CF4E9A-6FA8-4E74-BACB-ED05B787D14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CF4E9A-6FA8-4E74-BACB-ED05B787D14D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0938707-57FC-4120-8111-2333CA69623C}
+	EndGlobalSection
+EndGlobal
